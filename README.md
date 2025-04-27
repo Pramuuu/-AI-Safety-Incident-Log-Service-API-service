@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # AI Safety Incident Log
 
 A comprehensive system for tracking, managing, and analyzing AI safety incidents. This application provides a robust API for logging and monitoring incidents related to AI systems, helping organizations maintain better oversight of AI safety concerns.
@@ -180,9 +178,3 @@ For support, please open an issue in the GitHub repository or contact the mainta
 - SQLAlchemy ORM
 - JWT for authentication
 - All contributors and users of the system
-=======
-# AI-Safety-Incident-Log-Service
->>>>>>> 7402c21b7b8812997b44483e3a55eae7f04c6280
-=======
-# -AI-Safety-Incident-Log-Service-API-service
->>>>>>> 51f4320bf710a2b395d848aed423aefa7c434f0b
